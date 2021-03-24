@@ -1,0 +1,10 @@
+{
+  "name": "com.uniagile.unity",
+  "displayName": "UniAgile.Unity",
+  "description": "Unity",
+  "unity": "2018.4",
+  "version": "1.0.0",
+  "dependencies": {}
+}
+
+
